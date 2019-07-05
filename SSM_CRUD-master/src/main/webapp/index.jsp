@@ -14,7 +14,7 @@
     <%--标题--%>
     <div class="row">
         <div class="col-md-12">
-            <h1>SSM框架演示</h1>
+            <h1>SSM框架演示2019-7-6</h1>
         </div>
     </div>
     <%--按钮--%>
